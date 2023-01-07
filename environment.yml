@@ -1,4 +1,4 @@
-name: mlforptc
+name: imlforptc
 channels:
   - conda-forge
   - defaults
