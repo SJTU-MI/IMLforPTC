@@ -1,2 +1,0 @@
-RF model files are large, please download at the following URL:
-https://github.com/SJTU-MI/IMLforPTC/releases/download/MLforPTC/RF.model
