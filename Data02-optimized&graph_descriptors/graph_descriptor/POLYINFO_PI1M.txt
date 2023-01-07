@@ -1,0 +1,2 @@
+POLYINFO_PI1M.pkl files are large, please download at the following URL:
+https://github.com/SJTU-MI/IMLforPTC/releases/download/IMLforPTC/POLYINFO_PI1M.pkl
