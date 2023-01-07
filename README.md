@@ -42,7 +42,7 @@ pip install git+https://github.com/samoturk/mol2vec
 **06Model_accuracy.ipynb**: Plotting of model accuracy corresponding to different down-selection stages or different representations <br>
 ## Authors
 
-| **AUTHORS** |Xiang Huang, Shengluo Ma,Shenghong Ju            |
+| **AUTHORS** |Xiang Huang, Shengluo Ma, Shenghong Ju            |
 |-------------|--------------------------------------------------|
 | **VERSION** | 1.0 / January,2023                               |
 | **EMAILS**  | shenghong.ju@sjtu.edu.cn, msl@sjtu.edu.cn, huangxiang@sjtu.edu.cn |
