@@ -30,5 +30,22 @@ pip install git+https://github.com/samoturk/mol2vec
 **01feature_engineering.ipynb**: Feature engineering for down-selection of physical descriptors <br>
 **02_1graph_descriptor.ipynb**: Generation of morgan, morgan counts and MACCS fingerprints using RDkit <br>
 **02_2Mol2vec.ipynb**: Generation of Mol2vec fingerprints <br>
-**02_3Similarity_plot.ipynb**: Visualization of polymer data distribution in a 2D space by UMAP. The polymer structure is first transformed into a two-dimensional vector by *UMAP_for_polymer.py*.
-**03_1ML_optimized_descriptor.ipynb**: 
+**02_3Similarity_plot.ipynb**: Visualization of polymer data distribution in a 2D space by UMAP. The polymer structure is first transformed into a two-dimensional vector by *UMAP_for_polymer.py* <br>
+**03_1ML_optimized_descriptor.ipynb**: Machine learning models training with *optimized descriptors* <br>
+**03_2ML_Mol2vec.ipynb**: Machine learning models training with *Mol2vec descriptors*  <br>
+**03_3ML_MACCS.ipynb**: Machine learning models training with *MACCS descriptors*  <br>
+**03_4ML_Morgan.ipynb**: Machine learning models training with *Morgan descriptors*  <br>
+**03_5ML_cMargan.ipynb**: Machine learning models training with *Morgan counts descriptors* <br>
+**03_6ML_PCA.ipynb**: Machine learning models training with *PCA-based descriptors*  <br>
+**04SHAP_RF.ipynb**: Feature importance analysis by SHAP with RF model <br>
+**05TC_Prediction.ipynb**: Virtual screening of high thermal conductivity polymers in PolyInfo and PI1M datasets <br>
+**06Model_accuracy.ipynb**: Plotting of model accuracy corresponding to different down-selection stages or different representations <br>
+## Authors
+
+| **AUTHORS** | Xiang Huang, Shengluo Ma,Shenghong Ju            |
+|-------------|--------------------------------------------------|
+| **VERSION** | 1.0 / January,2023                               |
+| **EMAILS**  | shenghong.ju@sjtu.edu.cn, msl@sjtu.edu.cn, huangxiang@sjtu.edu.cn |
+
+## Attribution
+This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
