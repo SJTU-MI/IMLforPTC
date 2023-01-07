@@ -1,1 +1,2 @@
-https://github.com/SJTU-MI/MLforPTC/releases
+RF model files are large, please download at the following URL:
+https://github.com/SJTU-MI/MLforPTC/releases/download/MLforPTC/RF.model
