@@ -14,7 +14,7 @@ cd ./MLforPTC
 conda env create -f environment.yml
 conda activate mlforptc
 ````
-However, a separate Mol2vec environment is required to represent the molecular structures. To build this environment, run
+However, a separate Mol2vec environment is required to represent the molecular structures (optional). To build this environment, run
 ````
 pip install git+https://github.com/samoturk/mol2vec
 ````
@@ -25,5 +25,10 @@ pip install git+https://github.com/samoturk/mol2vec
 **02optimized&graph_descriptors**: Optimized descriptors, graph descriptors of Morgan fingerprint, MACCS and Mol2vec, 2D vectors converted from polymer chemical structures by UMAP <br>
 **03ML_models**: Trained machine learning models <br>
 **04model_accuracy**: Accuracy statistics of machine learning models with different representations or physical descriptors at various down-selection stages  <br>
-**05Polymer_data**: PolyInfo (datasteA) and PI1M (datasteB) polymer datasets<br>
+**05Polymer_data**: PolyInfo (datasteA) and PI1M (datasteB) polymer datasets <br>
 ### Code in the main folder
+**01feature_engineering.ipynb**: Feature engineering for down-selection of physical descriptors <br>
+**02_1graph_descriptor.ipynb**: Generation of morgan, morgan counts and MACCS fingerprints using RDkit <br>
+**02_2Mol2vec.ipynb**: Generation of Mol2vec fingerprints <br>
+**02_3Similarity_plot.ipynb**: Visualization of polymer data distribution in a 2D space by UMAP. The polymer structure is first transformed into a two-dimensional vector by *UMAP_for_polymer.py*.
+**03_1ML_optimized_descriptor.ipynb**: 
