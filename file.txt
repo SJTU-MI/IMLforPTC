@@ -1,0 +1,4 @@
+https://github.com/SJTU-MI/IMLforPTC/releases/download/IMLforPTC/POLYINFO_PI1M.pkl
+https://github.com/SJTU-MI/IMLforPTC/releases/download/IMLforPTC/embed_PI1M.pkl
+https://github.com/SJTU-MI/IMLforPTC/releases/download/IMLforPTC/RF.model
+https://github.com/SJTU-MI/IMLforPTC/releases/download/IMLforPTC/datasteB.pkl
