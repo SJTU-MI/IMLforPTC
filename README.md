@@ -16,10 +16,10 @@ conda activate imlforptc
 ````
 However, some large data files are downloaded from external distribution repositories and a separate Mol2vec environment is required to represent the molecular structures. To build this environment, run
 ````
-pip install git+https://github.com/samoturk/mol2vec
 wget -i file.txt
 chmod 777 file.sh
 ./file.sh
+pip install git+https://github.com/samoturk/mol2vec
 ````
 ## Try the desired parts of the project:
 ### Folders
