@@ -1,5 +1,4 @@
 #A demo for calculating the thermal conductivity of polyethylene (PE)
-#Additional RadonPy  toolkit needs to be pre-installed (https://github.com/RadonPy/RadonPy)
 from radonpy.core import utils, poly 
 from radonpy.ff.gaff2_mod import GAFF2_mod 
 from radonpy.sim import qm 
