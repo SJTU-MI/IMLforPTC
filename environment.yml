@@ -18,3 +18,4 @@ dependencies:
   - pip
   - umap-learn=0.5.3
   - jupyter
+  - minepy
