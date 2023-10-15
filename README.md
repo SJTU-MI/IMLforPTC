@@ -50,5 +50,8 @@ pip install git+https://github.com/samoturk/mol2vec
 | **VERSION** | 1.0 / January,2023                               |
 | **EMAILS**  | shenghong.ju@sjtu.edu.cn                         |
 
+## Publications
+1. X. Huang, S. Ma, C.Y. Zhao, H. Wang, S. Ju, "Exploring high thermal conductivity polymers via interpretable machine learning with physical descriptors,"  npj computational materials (2023) [[Link](https://www.nature.com/articles/s41524-023-01154-w)].
+
 ## Attribution
 This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
